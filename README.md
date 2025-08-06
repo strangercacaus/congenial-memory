@@ -198,6 +198,8 @@ This project was developed mostly on online platforms. SQL DDL files are availab
 
 Metabase Dashboard: [Access Here](https://grand-drift.metabaseapp.com/public/dashboard/aad2d97e-64e3-49bd-8c60-1b134a3cebce)
 
+Metabase Environment: [Access Here](https://grand-drift.metabaseapp.com/)
+
 Deepnote NotebookL: [Acess Here](https://deepnote.com/app/cacau/Screening-Challenge-CloudWalk-Aug-2025-240a7bae-3c7a-49c5-b1ea-94d425c9a389?utm_source=app-settings&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=240a7bae-3c7a-49c5-b1ea-94d425c9a389)
 
 ### Thank You!
