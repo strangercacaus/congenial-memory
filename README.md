@@ -194,9 +194,16 @@ This is a simple n8n ai agent using OpenRouter for model access and with metabas
 ![Screenshot 2025-08-06 at 04.17.07.png](CloudWalk%20Me%CC%81tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_04.17.07.png)
 
 ### Links and credentials
-This project was developed solely on onlie platforms. SQL DDL files are available in the project.
+This project was developed mostly on online platforms. SQL DDL files are available in the project.
 
-Metabase Panel: [Access Here](https://grand-drift.metabaseapp.com/public/dashboard/aad2d97e-64e3-49bd-8c60-1b134a3cebce)
+Metabase Dashboard: [Access Here](https://grand-drift.metabaseapp.com/public/dashboard/aad2d97e-64e3-49bd-8c60-1b134a3cebce)
+
+Metabase User: caue.ausec+cloudwalkteam@gmail.com
+
+Metabase Password : ord/67_cb6AAAa4ffb-a0
+
 N8N Invite URL: [Acess Here](https://cacaucloudwalk082025.app.n8n.cloud/signup?inviterId=3451cc37-bdce-45b6-bb4d-0635959659d0&inviteeId=da35e9fe-d975-4f36-98e6-29b96cd57d82)
 
-Thank You!
+Deepnote NotebookL: [Acess Here](https://deepnote.com/app/cacau/Screening-Challenge-CloudWalk-Aug-2025-240a7bae-3c7a-49c5-b1ea-94d425c9a389?utm_source=app-settings&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=240a7bae-3c7a-49c5-b1ea-94d425c9a389)
+
+### Thank You!
