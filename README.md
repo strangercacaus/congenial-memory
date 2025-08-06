@@ -43,7 +43,7 @@ Before we go on, the following premises were followed during the development of 
 
 On supabase, a simple setup was made, in order to contain the source data , processed time-series data *(see on deepnote section)* and a stored procedure, used for sankey flow analysis *(see on metabase section).*
 
-![https://raw.githubusercontent.com/strangercacaus/congenial-memory/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_02.54.04.png](https://raw.githubusercontent.com/strangercacaus/congenial-memory/refs/heads/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_02.54.04.png?token=GHSAT0AAAAAADEBAUHVX3YLHLTDP4LUK4N62ETBKLA)
+![https://raw.githubusercontent.com/strangercacaus/congenial-memory/refs/heads/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_02.54.04.png?token=GHSAT0AAAAAADEBAUHVX3YLHLTDP4LUK4N62ETBKLA](https://github.com/strangercacaus/congenial-memory/blob/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_02.54.04.png?raw=true)
 
 ### Screenshots
 
