@@ -183,7 +183,7 @@ and last, but not least
 
 This is a simple n8n ai agent using OpenRouter for model access and with metabase's questions as tools. This allows it to understand business questions and search for the necessary information to answer them:
 
-![[https://raw.githubusercontent.com/strangercacaus/congenial-memory/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_04.11.12.png](https://github.com/strangercacaus/congenial-memory/blob/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_04.11.12.png?raw=true)
+![https://raw.githubusercontent.com/strangercacaus/congenial-memory/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_04.11.12.png](https://github.com/strangercacaus/congenial-memory/blob/main/CloudWalk%20M%C3%A9tis%20247281cd42ce80c989ffc45fecb97d22/Screenshot_2025-08-06_at_04.11.12.png?raw=true)
 
 **Examples of questions and aswers:**
 
